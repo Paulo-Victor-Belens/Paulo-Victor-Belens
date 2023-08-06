@@ -39,7 +39,7 @@
   <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </div><br/>
 
-Apaixonado por pesca esportiva, tecnologia e desafios! <br/>
+Apaixonado por pesca esportiva, tecnologia e desafios! <br/> 
 Email para contato: <br/>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) --->  paulovictor55296@gmail.com
 
