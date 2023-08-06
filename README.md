@@ -37,7 +37,7 @@
   <img align="center" alt="ESlint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
   <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+</div><br/>
 
 Apaixonado por pesca esportiva, tecnologia e desafios! <br/>
 Email para contato: <br/>
