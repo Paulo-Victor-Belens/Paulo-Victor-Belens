@@ -1,5 +1,21 @@
 ### Olá, eu me Chamo Paulo Belens, e sou um desenvolvedor WEB 👋
 
+<br />
+<h1 align="center"> Sobre Mim </h1>
+
+<ul align="left">
+  <li>
+    Possuo como hobbies: ♠️ jogar poker com os amigos, ⛱ pegar uma praia, 🎶 tocar violão, 🐠 gosto de pesca esportiva e 🍤 cozinhar
+  </li>
+  <li>
+    Sou muito fã de Vôlei 🏐, tendo como top 3 bandas: Leo Santana, Seu Jorge e AC/DC. 
+  </li>
+  <li>
+    Sou uma pessoa fácil de lidar e que gosta de trabalhar em equipe! 😁 Sorridente, comunicativo e com qualidades técnicas para contribuir com a equipe 👨🏻‍🔧. 
+  </li>
+</ul>
+<br />
+
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-victor-belens/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://paulo-belens-dev.vercel.app/)
 
