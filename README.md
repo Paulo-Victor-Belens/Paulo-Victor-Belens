@@ -1,4 +1,4 @@
-### Olá, eu me Chamo Paulo Belens, e sou um desenvolvedor WEB 👋
+### Olá, eu me Chamo Paulo Belens, e sou um desenvolvedor Full Stack 👋
 
 <br />
 <h1 align="center"> Sobre Mim </h1>
